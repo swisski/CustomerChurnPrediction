@@ -1,0 +1,4 @@
+logs/
+*.pyc
+airflow.cfg
+airflow.db
