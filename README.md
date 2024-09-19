@@ -1,4 +1,4 @@
-## Customer Churn Prediction Pipeline
+# Customer Churn Prediction Pipeline
 An end-to-end data pipeline for customer churn prediction, utilizing modern data engineering and machine learning tools to automate data processes and improve prediction accuracy.
 
 ### Overview
